@@ -1,0 +1,93 @@
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForgeGoruntuIsleme.exe
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForgeGoruntuIsleme.pdb
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Controls.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Fuzzy.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Genetic.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Imaging.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Imaging.IPPrototyper.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.MachineLearning.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Math.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Neuro.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.Lego.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.Surveyor.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.TeRK.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.Kinect.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.VFW.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.Ximea.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Vision.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Controls.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Fuzzy.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Genetic.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Imaging.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.MachineLearning.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Math.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Neuro.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.VFW.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Vision.xml
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.exe
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.pdb
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.Form1.resources
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\Interop.WMPLib.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\OGUZHAN\Desktop\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.csproj.ResolveComReference.cache
+F:\ \Bilgisayar Mühendisliği\C# Görüntü İşleme\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\Interop.WMPLib.dll
+F:\ \Bilgisayar Mühendisliği\C# Görüntü İşleme\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ \Bilgisayar Mühendisliği\C# Görüntü İşleme\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.csproj.ResolveComReference.cache
+F:\ \Bilgisayar Mühendisliği\C# Görüntü İşleme\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.exe
+F:\ \Bilgisayar Mühendisliği\C# Görüntü İşleme\Project\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.pdb
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.csproj.ResolveComReference.cache
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.exe
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.pdb
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForgeGoruntuIsleme.exe
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForgeGoruntuIsleme.pdb
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Controls.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Fuzzy.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Genetic.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Imaging.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Imaging.Formats.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.MachineLearning.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Math.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Neuro.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.Lego.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.Surveyor.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Robotics.TeRK.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.Kinect.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.VFW.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Video.Ximea.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AForge.Vision.xml
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\Interop.WMPLib.dll
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.csprojResolveAssemblyReference.cache
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.Properties.Resources.resources
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\BegovicTeam\Desktop\video sıkıştırma\AForgeGoruntuIsleme\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.AnaForm.resources
+C:\Users\emre\Desktop\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\emre\Desktop\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\emre\Desktop\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.csproj.ResolveComReference.cache
+C:\Users\emre\Desktop\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.exe
+C:\Users\emre\Desktop\AForgeGoruntuIsleme\AForgeGoruntuIsleme\obj\x86\Debug\AForgeGoruntuIsleme.pdb
